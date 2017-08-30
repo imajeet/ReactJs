@@ -10,8 +10,8 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      input: 'Simple __markdown__ editor by. *[Emmanuel Ndukwe](https://twitter.com/emasys_nd)' +
-          '* built with __ReactJS__'
+      input: 'Simple __markdown__ previewer by *[Emmanuel Ndukwe](https://twitter.com/emasys_n' +
+          'd)* built with __ReactJS__'
     };
 
     this.inputChanged = this
