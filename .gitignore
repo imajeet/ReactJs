@@ -4,6 +4,9 @@
 /wiki/node_modules
 /node_modules
 
+/prod/node_modules
+/config
+keys.js
 # testing
 /coverage
 
