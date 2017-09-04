@@ -1,12 +1,8 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/wiki/node_modules
 /node_modules
-/tuteria-test
-/prod/node_modules
-/config
-keys.js
+
 # testing
 /coverage
 
