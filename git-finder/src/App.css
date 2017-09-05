@@ -1,0 +1,13 @@
+.header {
+    font-family: 'roboto';
+    text-align: center;
+}
+
+.main {
+    width: 320px;
+    margin: 0 auto
+}
+
+.textCenter {
+    text-align: center;
+}
